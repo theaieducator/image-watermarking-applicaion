@@ -3,6 +3,5 @@ imutils==0.5.4
 numpy==1.21.2
 Pillow==9.0.1
 scikit_image==0.18.3
-skimage
 opencv-python-headless==4.5.5.62
 gunicorn
